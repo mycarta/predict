@@ -6,6 +6,6 @@ The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro
 [Seismic Petrophysics Notebook] (https://github.com/seg/tutorials/blob/master/1506_Seismic_petrophysics_2/Seismic_petrophysics_2.ipynb) accompanying his
  [Geophysical tutorial] (http://library.seg.org/doi/abs/10.1190/tle34040440.1) article on The Leading Edge.
  
- I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). Here's an example prediction using a cross-validated linear model:
+ I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). Here's an example of sonic log prediction using a cross-validated linear model:
  
 ![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
