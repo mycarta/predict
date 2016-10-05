@@ -8,4 +8,4 @@ The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro
  
  I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). Here's an example of sonic log prediction using a cross-validated linear model:
  
-![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
+![linear](https://github.com/mycarta/predict/blob/master/images_4_README/heatmap.png)
