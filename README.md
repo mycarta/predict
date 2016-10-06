@@ -8,12 +8,12 @@ The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro
  
  I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). 
  
- Here's a heatmap with the pairwise Spearman correlation coefficient between the logs I will use:
- 
-![heat](https://github.com/mycarta/predict/blob/master/images_4_README/heatmap.png)
-
-and below an example of sonic log prediction using a cross-validated linear model, which will be our benchmark for the performance of other models such as SVM and Random Forest:
+ To wet your appetites, here's an example of sonic log prediction using a cross-validated linear model, which will be the benchmark for the performance of other models, such as SVM and Random Forest:
 
 ![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
+
+and below is a heatmap with the pairwise Spearman correlation coefficient between the logs I will use:
+ 
+![heat](https://github.com/mycarta/predict/blob/master/images_4_README/heatmap.png)
 
 
