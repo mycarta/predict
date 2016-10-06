@@ -6,11 +6,14 @@ The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro
 [Seismic Petrophysics Notebook] (https://github.com/seg/tutorials/blob/master/1506_Seismic_petrophysics_2/Seismic_petrophysics_2.ipynb) accompanying his
  [Geophysical tutorial] (http://library.seg.org/doi/abs/10.1190/tle34040440.1) article on The Leading Edge.
  
- I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). Here's an example of sonic log prediction using a cross-validated linear model, and a heatmap with the pairwise Spearman correlation coefficient:
+ I will explore different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/). 
  
-![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
-
+ Here's a heatmap with the pairwise Spearman correlation coefficient between the logs I will use:
+ 
 ![heat](https://github.com/mycarta/predict/blob/master/images_4_README/heatmap.png)
 
+and below an example of sonic log prediction using a cross-validated linear model, which will be our benchmark for the performance of other models such as SVM and Random Forest:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mycarta/predict)
+![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
+
+
