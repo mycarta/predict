@@ -11,3 +11,6 @@ The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro
 ![linear](https://github.com/mycarta/predict/blob/master/images_4_README/linear_model.png)
 
 ![heat](https://github.com/mycarta/predict/blob/master/images_4_README/heatmap.png)
+
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mycarta/predict)
