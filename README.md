@@ -5,7 +5,7 @@ A series of notebooks exploring different Machine Learning methods from [Scikit-
 - in [Geoscience ML notebook 1](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_1.ipynb), I look at methods for checking, tidying, and visualizing a dataset.
 - in [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb), I showcase some inferential statistics tools I built for selecting featues.
 - in Geoscience ML notebook 3, I will evaluate and compare the performance of different ML methods in predicting a geophysical log from a suite of other logs. The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro Amato del Monte used in the 
-[Seismic Petrophysics Notebook](https://github.com/seg/tutorials/blob/master/1506_Seismic_petrophysics_2/Seismic_petrophysics_2.ipynb) accompanying his[Geophysical tutorial](http://library.seg.org/doi/abs/10.1190/tle34040440.1) article on The Leading Edge.
+[Seismic Petrophysics Notebook](https://github.com/seg/tutorials/blob/master/1506_Seismic_petrophysics_2/Seismic_petrophysics_2.ipynb) accompanying his [Geophysical tutorial](http://library.seg.org/doi/abs/10.1190/tle34040440.1) article on The Leading Edge.
 - in Geoscience ML notebook 4, I will summarize my experience in team with with [Mark Dahl](https://github.com/dahlmb) at the [SEG 2016 Machine Learning contest](https://github.com/seg/2016-ml-contest).
 
 
