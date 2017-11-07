@@ -6,9 +6,9 @@ A series of notebooks exploring different Machine Learning methods from [Scikit-
 
 - in [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb), I showcase some inferential statistics tools I built for selecting featues.
 
-- in [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Bivariate_pay-production_prediction_interval.ipynb), I show how to use the prediction interval of a regression to discuss drilling economic risk.
+- in [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb), I show how to use the prediction interval of a regression to discuss drilling economic risk.
 
-- in [Geoscience_ML_notebook 4](https://github.com/mycarta/predict/blob/master/predict_drilling_problems.ipynb), I take a quick look at what a simple neural network can learn about drilling problems due to mud loss.
+- in [Geoscience_ML_notebook 4](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_4.ipynb), I take a quick look at what a simple neural network can learn about drilling problems due to mud loss.
 
 - Geoscience ML notebook 5 will be a visual Support Vector Machines tutorial.
 
