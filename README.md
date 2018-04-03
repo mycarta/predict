@@ -1,4 +1,6 @@
 # predict
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/predict/master)
+
 
 A series of notebooks exploring different Machine Learning methods from [Scikit-Learn](http://scikit-learn.org/stable/).
 
