@@ -12,7 +12,7 @@ A series of notebooks exploring different Machine Learning methods from [Scikit-
 
 - For Geoscience ML notebook 5 a visual tutorial on Support Vector Machines, check the [ML repo](https://github.com/mycarta/ML/tree/master/Matteo_Niccoli), and [read the full article here](https://csegrecorder.com/articles/view/machine-learning-in-geoscience-v-introduction-to-classification-with-svms)
 
-- in Geoscience ML notebook 6, I will evaluate and compare the performance of different ML methods in predicting a geophysical log from a suite of other logs; I was thinking of the compressional sonic initially, but I am now more keen on predicting the shear sonic. The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro Amato del Monte used in the 
+- Geoscience ML notebook 6 is currently an evolving notebook. In it I evaluate and compare the performance of different ML methods in predicting a geophysical log from a suite of other logs; I will start with the compressional sonic initially, then see how well we can predict the shear sonic as compared with modeling. The log suite is from the same well (from Pev Avseth PhD Thesis) that Alessandro Amato del Monte used in the 
 [Seismic Petrophysics Notebook](https://github.com/seg/tutorials/blob/master/1506_Seismic_petrophysics_2/Seismic_petrophysics_2.ipynb) accompanying his [Geophysical tutorial](http://library.seg.org/doi/abs/10.1190/tle34040440.1) article on The Leading Edge.
 
 - in Geoscience ML notebook 7, I will summarize my experience in team with with [Mark Dahl](https://github.com/dahlmb) at the [SEG 2016 Machine Learning contest](https://github.com/seg/2016-ml-contest).
