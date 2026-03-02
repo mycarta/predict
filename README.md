@@ -17,6 +17,8 @@ A series of notebooks exploring different Machine Learning methods from [Scikit-
 
 - in Geoscience ML notebook 7, I will summarize my experience in team with with [Mark Dahl](https://github.com/dahlmb) at the [SEG 2016 Machine Learning contest](https://github.com/seg/2016-ml-contest).
 
+- in [CI vs PI prediction intervals](https://github.com/mycarta/predict/blob/master/CI_vs_PI_prediction_intervals.ipynb), I demonstrate the critical difference between confidence intervals and prediction intervals in OLS regression using the Hunt (2013) dataset, with practical applications to economic risk assessment and the effect of sample size on uncertainty.
+
 
 
  To wet your appetites, here's an example of compressional sonic log prediction using a cross-validated linear model, which will be the benchmark to evaluate the performance of other models in notebook 3, such as SVM and Random Forest:
